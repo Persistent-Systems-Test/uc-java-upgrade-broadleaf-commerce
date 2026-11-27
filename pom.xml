@@ -1413,7 +1413,8 @@
             <dependency>
                 <groupId>org.hsqldb</groupId>
                 <artifactId>hsqldb</artifactId>
-                <version>2.3.1</version>
+                <version>2.7.1</version>
+                <classifier>jdk8</classifier>
                 <type>jar</type>
                 <scope>test</scope>
             </dependency>
