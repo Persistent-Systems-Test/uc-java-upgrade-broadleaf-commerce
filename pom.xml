@@ -226,7 +226,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>animal-sniffer-maven-plugin</artifactId>
-                <version>1.15</version>
+                <version>1.17</version>
                 <executions>
                     <execution>
                         <id>sniff</id>
@@ -666,7 +666,7 @@
             <dependency>
                 <groupId>commons-beanutils</groupId>
                 <artifactId>commons-beanutils</artifactId>
-                <version>1.9.4</version>
+                <version>1.11.0</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
