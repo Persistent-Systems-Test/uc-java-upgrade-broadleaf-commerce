@@ -51,10 +51,10 @@
         <maven.source.plugin.version>2.2.1</maven.source.plugin.version>
         <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
         <geb.version>0.10.0</geb.version>
-        <spock.core.version>1.0-groovy-2.3</spock.core.version>
-        <spock.spring.version>1.0-groovy-2.3</spock.spring.version>
+        <spock.core.version>1.0-groovy-2.4</spock.core.version>
+        <spock.spring.version>1.0-groovy-2.4</spock.spring.version>
         <selenium.version>2.43.1</selenium.version>
-        <groovy.version>2.3.10</groovy.version>
+        <groovy.version>2.4.21</groovy.version>
         <gpg.plugin.version>1.6</gpg.plugin.version>
         <project.uri>${project.baseUri}</project.uri>
     </properties>
